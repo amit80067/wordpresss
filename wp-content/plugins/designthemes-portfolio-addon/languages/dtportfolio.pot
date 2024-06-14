@@ -1,0 +1,2406 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignThemes Portfolio Addon\n"
+"POT-Creation-Date: 2020-03-02 19:01+0530\n"
+"PO-Revision-Date: 2019-07-19 11:27+0530\n"
+"Last-Translator: Admin <admin@iamdesigning.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:14
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:14
+msgid "Comment ( 1 )"
+msgstr ""
+
+#: ../comments.php:14
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../config-codestar.php:15
+msgid "Portfolio Addon Options"
+msgstr ""
+
+#: ../config-codestar.php:26 ../theme-support/class-designthemes.php:185
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: ../config-codestar.php:27 ../theme-support/class-designthemes.php:186
+msgid "If you wish you can enable transparent header for your theme."
+msgstr ""
+
+#: ../config-codestar.php:32
+msgid "Remove Additional Spaces"
+msgstr ""
+
+#: ../config-codestar.php:33
+msgid "This option is usefull if u like to keep any item in fullscreen."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:41
+#: ../custom-post-types/dtportfolio-addon-post-type.php:53
+msgid "Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:42
+msgid "All Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:43
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:44
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:45
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:46
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:47
+msgid "New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:48
+msgid "View Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:49
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:50
+msgid "No Portfolios found"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:51
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:52
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:59
+msgid "This is custom post type portfolios"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:83
+#: ../elementor/widgets/modules/class-widget-portfolio-listing-widget.php:52
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:297
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:206
+#: ../visual-composer/modules/portfolio-widget.php:33
+#: ../visual-composer/modules/portfolios.php:291
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:84
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:53
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:42
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:94
+msgid "Tags"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:95
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:54
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:43
+msgid "Tag"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:115
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:68
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:377
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:398
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:413
+#: ../shortcodes/shortcodes.php:421 ../shortcodes/shortcodes.php:833
+#: ../shortcodes/shortcodes.php:854 ../shortcodes/shortcodes.php:869
+msgid "Featured Image"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:116
+msgid "Add Image"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:123
+msgid "Enable Album Gallery"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:126
+msgid "Yes"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:127
+msgid "No"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:172
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:173
+#: ../elementor/widgets/modules/class-widget-portfolio-listing-widget.php:31
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:174
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:258
+msgid "Go to settings add few custom fields, then return back here."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:264
+msgid "Custom Portfolio Options"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:274
+msgid "General Options"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:282
+msgid "Portfolio Layout"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:291
+msgid ""
+"Except \"Custom Layout\", rest of the options won't work with all themes."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:298
+msgid "Masonry Size"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:300
+#: ../custom-post-types/dtportfolio-addon-post-type.php:396
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:50
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:108
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:151
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:236
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:269
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:419
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:482
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:628
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:699
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:42
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:42
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:50
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:50
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:145
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:178
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:328
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:391
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:521
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:592
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:88
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:206
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:277
+#: ../theme-support/class-designthemes.php:167
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:35
+#: ../visual-composer/modules/portfolio-customdetails.php:25
+#: ../visual-composer/modules/portfolio-navigationlinks.php:18
+#: ../visual-composer/modules/portfolio-related.php:37
+#: ../visual-composer/modules/portfolio-related.php:105
+#: ../visual-composer/modules/portfolio-related.php:135
+#: ../visual-composer/modules/portfolio-related.php:168
+#: ../visual-composer/modules/portfolio-related.php:287
+#: ../visual-composer/modules/portfolio-related.php:353
+#: ../visual-composer/modules/portfolio-related.php:511
+#: ../visual-composer/modules/portfolio-related.php:597
+#: ../visual-composer/modules/portfolio-slider.php:61
+#: ../visual-composer/modules/portfolio-slider.php:197
+#: ../visual-composer/modules/portfolio-slider.php:282
+#: ../visual-composer/modules/portfolios.php:38
+#: ../visual-composer/modules/portfolios.php:103
+#: ../visual-composer/modules/portfolios.php:154
+#: ../visual-composer/modules/portfolios.php:243
+#: ../visual-composer/modules/portfolios.php:276
+#: ../visual-composer/modules/portfolios.php:434
+#: ../visual-composer/modules/portfolios.php:516
+#: ../visual-composer/modules/portfolios.php:736
+#: ../visual-composer/modules/portfolios.php:846
+msgid "Default"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:301
+msgid "Grid Size 1"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:302
+msgid "Grid Size 2"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:303
+msgid "Grid Size 3"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:304
+msgid "Grid Size 4"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:305
+msgid "Grid Size 5"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:306
+msgid "Grid Size 6"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:307
+msgid "Grid Size 7"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:308
+msgid "Grid Size 8"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:309
+msgid "Grid Size 9"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:313
+msgid "It works with portfolio infinite shortcode only."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:321
+msgid "Gallery Position"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:333
+msgid "Choose position for your gallery items."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:344
+msgid "Gallery Options"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:351
+msgid "Gallery Images"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:352
+msgid "Simply add images to gallery items."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:353
+msgid "Add Images"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:354
+msgid "Edit Images"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:355
+msgid "Remove Images"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:366
+#: ../custom-post-types/dtportfolio-addon-post-type.php:373
+msgid "Optional Fields"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:385
+msgid "DesignTheme Addon Options"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:393
+msgid "Hover Styles"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:394
+msgid "Choose hover style for your portfolio item."
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:397
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:205
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:114
+#: ../visual-composer/modules/portfolio-related.php:106
+#: ../visual-composer/modules/portfolios.php:213
+msgid "Modern Title"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:398
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:206
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:115
+#: ../visual-composer/modules/portfolio-related.php:107
+msgid "Title & Icons Overlay"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:399
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:207
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:116
+#: ../visual-composer/modules/portfolio-related.php:108
+#: ../visual-composer/modules/portfolios.php:214
+msgid "Title Overlay"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:400
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:208
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:117
+#: ../visual-composer/modules/portfolio-related.php:109
+#: ../visual-composer/modules/portfolios.php:216
+msgid "Icons Only"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:401
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:209
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:118
+#: ../visual-composer/modules/portfolio-related.php:110
+#: ../visual-composer/modules/portfolios.php:217
+msgid "Classic"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:402
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:210
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:119
+#: ../visual-composer/modules/portfolio-related.php:111
+#: ../visual-composer/modules/portfolios.php:218
+msgid "Minimal Icons"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:403
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:211
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:120
+#: ../visual-composer/modules/portfolio-related.php:112
+#: ../visual-composer/modules/portfolios.php:219
+msgid "Presentation"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:404
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:212
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:121
+#: ../visual-composer/modules/portfolio-related.php:113
+#: ../visual-composer/modules/portfolios.php:220
+msgid "Girly"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:405
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:213
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:122
+#: ../visual-composer/modules/portfolio-related.php:114
+#: ../visual-composer/modules/portfolios.php:221
+msgid "Art"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:406
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:214
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:123
+#: ../visual-composer/modules/portfolio-related.php:115
+#: ../visual-composer/modules/portfolios.php:222
+msgid "Extended"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:407
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:215
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:51
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:124
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:36
+#: ../visual-composer/modules/portfolio-related.php:116
+#: ../visual-composer/modules/portfolios.php:223
+msgid "Boxed"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:408
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:216
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:125
+#: ../visual-composer/modules/portfolio-related.php:117
+#: ../visual-composer/modules/portfolios.php:224
+msgid "Centered Box"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:409
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:217
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:126
+#: ../visual-composer/modules/portfolio-related.php:118
+#: ../visual-composer/modules/portfolios.php:225
+msgid "With Gallery Thumb"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:410
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:218
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:127
+#: ../visual-composer/modules/portfolio-related.php:119
+#: ../visual-composer/modules/portfolios.php:226
+msgid "With Gallery List"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:411
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:219
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:128
+#: ../visual-composer/modules/portfolio-related.php:120
+#: ../visual-composer/modules/portfolios.php:227
+msgid "Grayscale"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:412
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:220
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:129
+#: ../visual-composer/modules/portfolio-related.php:121
+#: ../visual-composer/modules/portfolios.php:228
+msgid "Highlighter"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:413
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:221
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:130
+#: ../visual-composer/modules/portfolio-related.php:122
+#: ../visual-composer/modules/portfolios.php:229
+msgid "With Details"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:414
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:222
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:131
+#: ../visual-composer/modules/portfolio-related.php:123
+#: ../visual-composer/modules/portfolios.php:230
+msgid "Bottom Border"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:415
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:223
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:132
+#: ../visual-composer/modules/portfolio-related.php:124
+#: ../visual-composer/modules/portfolios.php:231
+msgid "With Intro"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:423
+msgid "Different Parallax Speed Values"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:430
+msgid "Random Parallax Speed Values"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:437
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:380
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:91
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:289
+#: ../visual-composer/modules/portfolio-gallerylisting.php:81
+#: ../visual-composer/modules/portfolio-related.php:243
+#: ../visual-composer/modules/portfolios.php:374
+msgid "Animation Effect"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:445
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:388
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:99
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:297
+#: ../visual-composer/modules/portfolio-gallerylisting.php:90
+#: ../visual-composer/modules/portfolio-related.php:253
+#: ../visual-composer/modules/portfolios.php:388
+msgid "Animation Delay"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:452
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:409
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:318
+#: ../visual-composer/modules/portfolio-related.php:275
+#: ../visual-composer/modules/portfolios.php:418
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:459
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:416
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:325
+#: ../visual-composer/modules/portfolio-related.php:284
+#: ../visual-composer/modules/portfolios.php:431
+msgid "Hover Content Color"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:471
+msgid "Gradient Second Color"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:478
+msgid "Gradient Direction"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:490
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:447
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:356
+#: ../visual-composer/modules/portfolio-related.php:321
+#: ../visual-composer/modules/portfolios.php:480
+msgid "Hover State"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:501
+#: ../custom-post-types/dtportfolio-addon-post-type.php:512
+msgid "Featured Video"
+msgstr ""
+
+#: ../custom-post-types/dtportfolio-addon-post-type.php:513
+msgid ""
+"Please enter the video url in following format mp4, webm,... If video URL "
+"field is empty featured image will be used. It will be used to display in "
+"template page or shorcodes."
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:7
+msgid "To list out portfolio items"
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:10
+msgid " Portfolio"
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:28
+msgid "Title:"
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:35
+#: ../visual-composer/modules/portfolio-widget.php:36
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:38
+msgid "Select"
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:51
+msgid "No.of posts to show:"
+msgstr ""
+
+#: ../custom-post-types/widgets/widget-recent-portfolios.php:125
+msgid "No Portfolio Entries found"
+msgstr ""
+
+#: ../designthemes-portfolio-addon.php:142
+#, php-format
+msgid "Please make sure %s theme is activated."
+msgstr ""
+
+#: ../elementor/register-elementor.php:100
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../elementor/register-elementor.php:101
+#: ../elementor/register-elementor.php:121
+#: ../elementor/register-elementor.php:142
+msgid "DesignThemes Elementor Addon"
+msgstr ""
+
+#: ../elementor/register-elementor.php:102
+#: ../elementor/register-elementor.php:122
+msgid "Elementor"
+msgstr ""
+
+#: ../elementor/register-elementor.php:120
+#: ../elementor/register-elementor.php:141
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../elementor/register-elementor.php:143
+msgid "PHP"
+msgstr ""
+
+#: ../elementor/register-elementor.php:182
+msgid "DesignThemes Portfolio Addon"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing-widget.php:13
+msgid "Portfolio Listing - Widget"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing-widget.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-list.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-video.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:25
+#: ../elementor/widgets/modules/class-widget-portfolio-single-title.php:25
+msgid "General"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing-widget.php:61
+msgid "Number Of Posts"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:13
+msgid "Portfolio Listing"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-video.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-title.php:31
+#: ../visual-composer/modules/portfolio-customdetails.php:13
+#: ../visual-composer/modules/portfolio-featuredimage.php:13
+#: ../visual-composer/modules/portfolio-featuredvideo.php:13
+#: ../visual-composer/modules/portfolio-gallerylisting.php:16
+#: ../visual-composer/modules/portfolio-related.php:17
+#: ../visual-composer/modules/portfolio-slider.php:13
+#: ../visual-composer/modules/portfolio-tags.php:13
+#: ../visual-composer/modules/portfolio-terms.php:13
+#: ../visual-composer/modules/portfolio-title.php:13
+#: ../visual-composer/modules/portfolios.php:17
+msgid "Portfolio ID"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:33
+#: ../visual-composer/modules/portfolios.php:19
+msgid "Enter portfolio ids separated by commas to display portfolio items."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:39
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:39
+#: ../visual-composer/modules/portfolio-related.php:25
+#: ../visual-composer/modules/portfolios.php:26
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:41
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:41
+#: ../visual-composer/modules/portfolio-related.php:27
+#: ../visual-composer/modules/portfolios.php:28
+msgid "Number of posts to show."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:47
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:47
+#: ../visual-composer/modules/portfolio-related.php:34
+#: ../visual-composer/modules/portfolios.php:35
+msgid "Post Style"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:51
+#: ../visual-composer/modules/portfolios.php:39
+msgid "Full Page"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:52
+#: ../visual-composer/modules/portfolios.php:40
+msgid "Parallax"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:53
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:51
+#: ../visual-composer/modules/portfolio-related.php:38
+#: ../visual-composer/modules/portfolios.php:41
+msgid "Striped"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:54
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:52
+#: ../visual-composer/modules/portfolio-related.php:39
+#: ../visual-composer/modules/portfolios.php:42
+msgid "Fixed"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:55
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:53
+#: ../visual-composer/modules/portfolio-related.php:40
+#: ../visual-composer/modules/portfolios.php:43
+msgid "Framed"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:56
+#: ../visual-composer/modules/portfolios.php:44
+msgid "Multi Scroll"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:58
+#: ../visual-composer/modules/portfolios.php:46
+msgid ""
+"\"Full Page\", \"Multi Scroll\" will work correctly when compatible header "
+"and footer is used."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:64
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:60
+#: ../visual-composer/modules/portfolio-related.php:48
+#: ../visual-composer/modules/portfolios.php:53
+msgid "Show Details Below Image"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:67
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:93
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:309
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:590
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:63
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:218
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:483
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:168
+#: ../visual-composer/modules/portfolio-related.php:51
+#: ../visual-composer/modules/portfolio-related.php:464
+#: ../visual-composer/modules/portfolio-slider.php:150
+#: ../visual-composer/modules/portfolios.php:56
+#: ../visual-composer/modules/portfolios.php:85
+#: ../visual-composer/modules/portfolios.php:303
+#: ../visual-composer/modules/portfolios.php:677
+msgid "None"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:68
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:64
+#: ../visual-composer/modules/portfolio-related.php:52
+#: ../visual-composer/modules/portfolios.php:57
+msgid "Details Below Image"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:69
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:65
+#: ../visual-composer/modules/portfolio-related.php:53
+#: ../visual-composer/modules/portfolios.php:58
+msgid "Details Aside"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:76
+#: ../visual-composer/modules/portfolios.php:66
+msgid "Enable Arrows"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:79
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:122
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:190
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:255
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:322
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:369
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:401
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:450
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:542
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:554
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:566
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:578
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:604
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:616
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:640
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:652
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:676
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:69
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:80
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:112
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:99
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:164
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:231
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:278
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:310
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:359
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:435
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:447
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:459
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:471
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:497
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:509
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:533
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:545
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:569
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:50
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:61
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:132
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:144
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:156
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:182
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:194
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:218
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:230
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:254
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:42
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:53
+#: ../visual-composer/modules/portfolio-gallerylisting.php:60
+#: ../visual-composer/modules/portfolio-gallerylisting.php:72
+#: ../visual-composer/modules/portfolio-gallerylisting.php:101
+#: ../visual-composer/modules/portfolio-related.php:89
+#: ../visual-composer/modules/portfolio-related.php:152
+#: ../visual-composer/modules/portfolio-related.php:186
+#: ../visual-composer/modules/portfolio-related.php:233
+#: ../visual-composer/modules/portfolio-related.php:265
+#: ../visual-composer/modules/portfolio-related.php:324
+#: ../visual-composer/modules/portfolio-related.php:404
+#: ../visual-composer/modules/portfolio-related.php:419
+#: ../visual-composer/modules/portfolio-related.php:434
+#: ../visual-composer/modules/portfolio-related.php:449
+#: ../visual-composer/modules/portfolio-related.php:481
+#: ../visual-composer/modules/portfolio-related.php:496
+#: ../visual-composer/modules/portfolio-related.php:527
+#: ../visual-composer/modules/portfolio-related.php:542
+#: ../visual-composer/modules/portfolio-related.php:557
+#: ../visual-composer/modules/portfolio-related.php:572
+#: ../visual-composer/modules/portfolio-slider.php:37
+#: ../visual-composer/modules/portfolio-slider.php:105
+#: ../visual-composer/modules/portfolio-slider.php:120
+#: ../visual-composer/modules/portfolio-slider.php:135
+#: ../visual-composer/modules/portfolio-slider.php:167
+#: ../visual-composer/modules/portfolio-slider.php:182
+#: ../visual-composer/modules/portfolio-slider.php:212
+#: ../visual-composer/modules/portfolio-slider.php:227
+#: ../visual-composer/modules/portfolio-slider.php:257
+#: ../visual-composer/modules/portfolio-tags.php:25
+#: ../visual-composer/modules/portfolio-terms.php:25
+#: ../visual-composer/modules/portfolios.php:69
+#: ../visual-composer/modules/portfolios.php:120
+#: ../visual-composer/modules/portfolios.php:197
+#: ../visual-composer/modules/portfolios.php:260
+#: ../visual-composer/modules/portfolios.php:317
+#: ../visual-composer/modules/portfolios.php:364
+#: ../visual-composer/modules/portfolios.php:404
+#: ../visual-composer/modules/portfolios.php:483
+#: ../visual-composer/modules/portfolios.php:601
+#: ../visual-composer/modules/portfolios.php:620
+#: ../visual-composer/modules/portfolios.php:639
+#: ../visual-composer/modules/portfolios.php:658
+#: ../visual-composer/modules/portfolios.php:698
+#: ../visual-composer/modules/portfolios.php:717
+#: ../visual-composer/modules/portfolios.php:756
+#: ../visual-composer/modules/portfolios.php:775
+#: ../visual-composer/modules/portfolios.php:813
+msgid "False"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:80
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:123
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:191
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:256
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:323
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:370
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:402
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:451
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:543
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:555
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:567
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:579
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:605
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:617
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:641
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:653
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:677
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:70
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:81
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:113
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:100
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:165
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:232
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:279
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:311
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:360
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:436
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:448
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:460
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:472
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:498
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:510
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:534
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:546
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:570
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:51
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:62
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:133
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:145
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:157
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:183
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:195
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:219
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:231
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:255
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:43
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:54
+#: ../visual-composer/modules/portfolio-gallerylisting.php:61
+#: ../visual-composer/modules/portfolio-gallerylisting.php:73
+#: ../visual-composer/modules/portfolio-gallerylisting.php:102
+#: ../visual-composer/modules/portfolio-related.php:90
+#: ../visual-composer/modules/portfolio-related.php:153
+#: ../visual-composer/modules/portfolio-related.php:187
+#: ../visual-composer/modules/portfolio-related.php:234
+#: ../visual-composer/modules/portfolio-related.php:266
+#: ../visual-composer/modules/portfolio-related.php:325
+#: ../visual-composer/modules/portfolio-related.php:405
+#: ../visual-composer/modules/portfolio-related.php:420
+#: ../visual-composer/modules/portfolio-related.php:435
+#: ../visual-composer/modules/portfolio-related.php:450
+#: ../visual-composer/modules/portfolio-related.php:482
+#: ../visual-composer/modules/portfolio-related.php:497
+#: ../visual-composer/modules/portfolio-related.php:528
+#: ../visual-composer/modules/portfolio-related.php:543
+#: ../visual-composer/modules/portfolio-related.php:558
+#: ../visual-composer/modules/portfolio-related.php:573
+#: ../visual-composer/modules/portfolio-slider.php:38
+#: ../visual-composer/modules/portfolio-slider.php:106
+#: ../visual-composer/modules/portfolio-slider.php:121
+#: ../visual-composer/modules/portfolio-slider.php:136
+#: ../visual-composer/modules/portfolio-slider.php:168
+#: ../visual-composer/modules/portfolio-slider.php:183
+#: ../visual-composer/modules/portfolio-slider.php:213
+#: ../visual-composer/modules/portfolio-slider.php:228
+#: ../visual-composer/modules/portfolio-slider.php:258
+#: ../visual-composer/modules/portfolio-tags.php:26
+#: ../visual-composer/modules/portfolio-terms.php:26
+#: ../visual-composer/modules/portfolios.php:70
+#: ../visual-composer/modules/portfolios.php:121
+#: ../visual-composer/modules/portfolios.php:198
+#: ../visual-composer/modules/portfolios.php:261
+#: ../visual-composer/modules/portfolios.php:318
+#: ../visual-composer/modules/portfolios.php:365
+#: ../visual-composer/modules/portfolios.php:405
+#: ../visual-composer/modules/portfolios.php:484
+#: ../visual-composer/modules/portfolios.php:602
+#: ../visual-composer/modules/portfolios.php:621
+#: ../visual-composer/modules/portfolios.php:640
+#: ../visual-composer/modules/portfolios.php:659
+#: ../visual-composer/modules/portfolios.php:699
+#: ../visual-composer/modules/portfolios.php:718
+#: ../visual-composer/modules/portfolios.php:757
+#: ../visual-composer/modules/portfolios.php:776
+#: ../visual-composer/modules/portfolios.php:814
+msgid "True"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:90
+#: ../visual-composer/modules/portfolios.php:82
+msgid "Fullpage Navigation Direction"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:94
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:63
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:48
+#: ../visual-composer/modules/portfolios.php:86
+msgid "Left"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:95
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:64
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:49
+#: ../visual-composer/modules/portfolios.php:87
+msgid "Right"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:105
+#: ../visual-composer/modules/portfolios.php:100
+msgid "Fullpage Type"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:109
+#: ../visual-composer/modules/portfolios.php:104
+msgid "Splitted Section"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:119
+#: ../visual-composer/modules/portfolios.php:117
+msgid "Disable Mouse Scrolling"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:133
+#: ../visual-composer/modules/portfolios.php:133
+msgid "Fullpage Splitted Sections"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:136
+#: ../visual-composer/modules/portfolios.php:136
+msgid "Leftside Image"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:137
+#: ../visual-composer/modules/portfolios.php:137
+msgid "Rightside Image"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:138
+#: ../visual-composer/modules/portfolios.php:138
+msgid "Alternate Content"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:148
+#: ../visual-composer/modules/portfolios.php:151
+msgid "Parallax Effects"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:152
+#: ../visual-composer/modules/portfolios.php:155
+msgid "Different Parallax Speed"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:153
+#: ../visual-composer/modules/portfolios.php:156
+msgid "Random Parallax Effect"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:163
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:47
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:72
+#: ../visual-composer/modules/portfolio-gallerylisting.php:36
+#: ../visual-composer/modules/portfolio-related.php:61
+#: ../visual-composer/modules/portfolios.php:169
+msgid "Post Layout"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:166
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:50
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:75
+#: ../visual-composer/modules/portfolio-gallerylisting.php:39
+#: ../visual-composer/modules/portfolio-related.php:64
+#: ../visual-composer/modules/portfolios.php:172
+msgid "I Column"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:167
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:51
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:76
+#: ../visual-composer/modules/portfolio-gallerylisting.php:40
+#: ../visual-composer/modules/portfolio-related.php:65
+#: ../visual-composer/modules/portfolios.php:173
+msgid "II Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:168
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:52
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:77
+#: ../visual-composer/modules/portfolio-gallerylisting.php:41
+#: ../visual-composer/modules/portfolio-related.php:66
+#: ../visual-composer/modules/portfolios.php:174
+msgid "III Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:169
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:53
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:78
+#: ../visual-composer/modules/portfolio-gallerylisting.php:42
+#: ../visual-composer/modules/portfolio-related.php:67
+#: ../visual-composer/modules/portfolios.php:175
+msgid "IV Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:170
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:54
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:79
+#: ../visual-composer/modules/portfolio-gallerylisting.php:43
+#: ../visual-composer/modules/portfolio-related.php:68
+#: ../visual-composer/modules/portfolios.php:176
+msgid "V Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:171
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:55
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:80
+#: ../visual-composer/modules/portfolio-gallerylisting.php:44
+#: ../visual-composer/modules/portfolio-related.php:69
+#: ../visual-composer/modules/portfolios.php:177
+msgid "VI Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:172
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:56
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:81
+#: ../visual-composer/modules/portfolio-gallerylisting.php:45
+#: ../visual-composer/modules/portfolio-related.php:70
+#: ../visual-composer/modules/portfolios.php:178
+msgid "VII Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:173
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:57
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:82
+#: ../visual-composer/modules/portfolio-gallerylisting.php:46
+#: ../visual-composer/modules/portfolio-related.php:71
+#: ../visual-composer/modules/portfolios.php:179
+msgid "VIII Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:174
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:58
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:83
+#: ../visual-composer/modules/portfolio-gallerylisting.php:47
+#: ../visual-composer/modules/portfolio-related.php:72
+#: ../visual-composer/modules/portfolios.php:180
+msgid "IX Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:175
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:59
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:84
+#: ../visual-composer/modules/portfolio-gallerylisting.php:48
+#: ../visual-composer/modules/portfolio-related.php:73
+#: ../visual-composer/modules/portfolios.php:181
+msgid "X Columns"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:181
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:90
+msgid "Recommended to use One column for 'Details Aside' type."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:187
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:66
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:96
+#: ../visual-composer/modules/portfolio-gallerylisting.php:57
+#: ../visual-composer/modules/portfolio-related.php:86
+#: ../visual-composer/modules/portfolios.php:194
+msgid "Grid Space"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:202
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:111
+#: ../visual-composer/modules/portfolio-related.php:102
+#: ../visual-composer/modules/portfolios.php:210
+msgid "Hover Style"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:233
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:142
+#: ../visual-composer/modules/portfolio-related.php:132
+#: ../visual-composer/modules/portfolios.php:240
+msgid "Cursor Hover Style"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:237
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:146
+#: ../visual-composer/modules/portfolio-related.php:136
+#: ../visual-composer/modules/portfolios.php:244
+msgid "Style 1"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:238
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:147
+#: ../visual-composer/modules/portfolio-related.php:137
+#: ../visual-composer/modules/portfolios.php:245
+msgid "Style 2"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:239
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:148
+#: ../visual-composer/modules/portfolio-related.php:138
+#: ../visual-composer/modules/portfolios.php:246
+msgid "Style 3"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:240
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:149
+#: ../visual-composer/modules/portfolio-related.php:139
+#: ../visual-composer/modules/portfolios.php:247
+msgid "Style 4"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:241
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:150
+#: ../visual-composer/modules/portfolio-related.php:140
+#: ../visual-composer/modules/portfolios.php:248
+msgid "Style 5"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:242
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:151
+#: ../visual-composer/modules/portfolio-related.php:141
+#: ../visual-composer/modules/portfolios.php:249
+msgid "Style 6"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:252
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:161
+#: ../visual-composer/modules/portfolio-related.php:149
+#: ../visual-composer/modules/portfolios.php:257
+msgid "Filter"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:266
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:175
+#: ../visual-composer/modules/portfolio-related.php:165
+#: ../visual-composer/modules/portfolios.php:273
+msgid "Filter Design Type"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:270
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:179
+#: ../visual-composer/modules/portfolio-related.php:169
+#: ../visual-composer/modules/portfolios.php:277
+msgid "Type 1"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:271
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:629
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:700
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:43
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:43
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:180
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:522
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:593
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:207
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:278
+#: ../visual-composer/modules/portfolio-customdetails.php:26
+#: ../visual-composer/modules/portfolio-navigationlinks.php:19
+#: ../visual-composer/modules/portfolio-related.php:170
+#: ../visual-composer/modules/portfolio-related.php:512
+#: ../visual-composer/modules/portfolio-related.php:598
+#: ../visual-composer/modules/portfolio-slider.php:198
+#: ../visual-composer/modules/portfolio-slider.php:283
+#: ../visual-composer/modules/portfolios.php:278
+#: ../visual-composer/modules/portfolios.php:737
+#: ../visual-composer/modules/portfolios.php:847
+msgid "Type 2"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:272
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:701
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:44
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:44
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:181
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:594
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:279
+#: ../visual-composer/modules/portfolio-customdetails.php:27
+#: ../visual-composer/modules/portfolio-navigationlinks.php:20
+#: ../visual-composer/modules/portfolio-related.php:171
+#: ../visual-composer/modules/portfolio-related.php:599
+#: ../visual-composer/modules/portfolio-slider.php:284
+#: ../visual-composer/modules/portfolios.php:279
+#: ../visual-composer/modules/portfolios.php:848
+msgid "Type 3"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:306
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:587
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:215
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:480
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:165
+#: ../visual-composer/modules/portfolio-related.php:461
+#: ../visual-composer/modules/portfolio-slider.php:147
+#: ../visual-composer/modules/portfolios.php:300
+#: ../visual-composer/modules/portfolios.php:674
+msgid "Pagination Type"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:310
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:219
+#: ../visual-composer/modules/portfolios.php:304
+msgid "Numbered Pagination"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:311
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:220
+#: ../functions-templatepage.php:1279
+#: ../visual-composer/modules/portfolios.php:305
+msgid "Load More"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:312
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:221
+#: ../visual-composer/modules/portfolios.php:306
+msgid "Lazy Load"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:319
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:228
+#: ../visual-composer/modules/portfolio-related.php:183
+#: ../visual-composer/modules/portfolios.php:314
+msgid "Enable Fullwidth"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:330
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:63
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-list.php:31
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:52
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:39
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-video.php:39
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:120
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:52
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:239
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:69
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:62
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:61
+#: ../elementor/widgets/modules/class-widget-portfolio-single-title.php:39
+#: ../visual-composer/modules/portfolio-comment-form.php:40
+#: ../visual-composer/modules/portfolio-comment-list.php:13
+#: ../visual-composer/modules/portfolio-customdetails.php:35
+#: ../visual-composer/modules/portfolio-featuredimage.php:22
+#: ../visual-composer/modules/portfolio-featuredvideo.php:22
+#: ../visual-composer/modules/portfolio-gallerylisting.php:110
+#: ../visual-composer/modules/portfolio-navigationlinks.php:28
+#: ../visual-composer/modules/portfolio-related.php:195
+#: ../visual-composer/modules/portfolio-slider.php:46
+#: ../visual-composer/modules/portfolio-tags.php:33
+#: ../visual-composer/modules/portfolio-terms.php:33
+#: ../visual-composer/modules/portfolio-title.php:22
+#: ../visual-composer/modules/portfolios.php:326
+msgid "Class"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:337
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:246
+#: ../visual-composer/modules/portfolio-related.php:204
+#: ../visual-composer/modules/portfolios.php:335
+msgid "Paged"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:347
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:256
+#: ../visual-composer/modules/portfolio-related.php:217
+#: ../visual-composer/modules/portfolios.php:348
+msgid "Ajax Call"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:360
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:269
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:366
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:275
+#: ../visual-composer/modules/portfolio-related.php:230
+#: ../visual-composer/modules/portfolios.php:361
+msgid "Disable Portfolio Item Options"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:398
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:109
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:307
+#: ../visual-composer/modules/portfolio-gallerylisting.php:98
+#: ../visual-composer/modules/portfolio-related.php:262
+#: ../visual-composer/modules/portfolios.php:401
+msgid "Repeat Animation"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:420
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:329
+#: ../visual-composer/modules/portfolio-related.php:288
+#: ../visual-composer/modules/portfolios.php:435
+msgid "Hover Content Color Dark"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:421
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:330
+#: ../visual-composer/modules/portfolio-related.php:289
+#: ../visual-composer/modules/portfolios.php:436
+msgid "Hover Content Color Light"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:428
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:337
+#: ../visual-composer/modules/portfolio-related.php:298
+#: ../visual-composer/modules/portfolios.php:449
+msgid "Hover Gradient Color"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:435
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:344
+#: ../visual-composer/modules/portfolio-related.php:307
+#: ../visual-composer/modules/portfolios.php:462
+msgid "Hover Gradient Direction"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:438
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:347
+#: ../visual-composer/modules/portfolio-related.php:310
+#: ../visual-composer/modules/portfolios.php:465
+msgid "Left to Right"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:439
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:348
+#: ../visual-composer/modules/portfolio-related.php:311
+#: ../visual-composer/modules/portfolios.php:466
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:440
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:349
+#: ../visual-composer/modules/portfolio-related.php:312
+#: ../visual-composer/modules/portfolios.php:467
+msgid "Diagonal"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:461
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:471
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:370
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:380
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:79
+#: ../visual-composer/modules/portfolio-related.php:339
+#: ../visual-composer/modules/portfolios.php:502
+msgid "Carousel"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:467
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:376
+#: ../visual-composer/modules/portfolio-related.php:335
+#: ../visual-composer/modules/portfolios.php:498
+msgid "Display Style"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:470
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:379
+#: ../visual-composer/modules/portfolio-related.php:338
+#: ../visual-composer/modules/portfolios.php:501
+msgid "List"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:473
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:382
+#: ../visual-composer/modules/portfolio-related.php:341
+#: ../visual-composer/modules/portfolios.php:504
+msgid "Select display style for your portfolio."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:479
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:388
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:85
+#: ../visual-composer/modules/portfolio-related.php:350
+#: ../visual-composer/modules/portfolio-slider.php:58
+#: ../visual-composer/modules/portfolios.php:513
+msgid "Effect"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:483
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:392
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:89
+#: ../visual-composer/modules/portfolio-related.php:355
+#: ../visual-composer/modules/portfolio-slider.php:62
+#: ../visual-composer/modules/portfolios.php:517
+msgid "Cube"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:484
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:393
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:90
+#: ../visual-composer/modules/portfolio-related.php:356
+#: ../visual-composer/modules/portfolio-slider.php:63
+#: ../visual-composer/modules/portfolios.php:518
+msgid "Fade"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:485
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:394
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:91
+#: ../visual-composer/modules/portfolio-related.php:357
+#: ../visual-composer/modules/portfolio-slider.php:64
+#: ../visual-composer/modules/portfolios.php:519
+msgid "Flip"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:486
+#: ../visual-composer/modules/portfolios.php:520
+msgid "Multi Rows"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:488
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:396
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:93
+#: ../visual-composer/modules/portfolio-related.php:359
+#: ../visual-composer/modules/portfolio-slider.php:66
+#: ../visual-composer/modules/portfolios.php:522
+msgid ""
+"Choose effect for your carousel. Slides Per View has to be 1 for Cube and "
+"Fade effect."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:494
+#: ../visual-composer/modules/portfolios.php:535
+msgid "Number of Rows"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:503
+#: ../visual-composer/modules/portfolios.php:544
+msgid "Number rows to show, it will work along with multi row effect only."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:509
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:402
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:99
+#: ../visual-composer/modules/portfolio-related.php:368
+#: ../visual-composer/modules/portfolio-slider.php:75
+#: ../visual-composer/modules/portfolios.php:557
+msgid "Auto Play"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:519
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:412
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:109
+#: ../visual-composer/modules/portfolio-related.php:378
+#: ../visual-composer/modules/portfolio-slider.php:85
+#: ../visual-composer/modules/portfolios.php:571
+msgid "Slides Per View"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:533
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:426
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:123
+#: ../visual-composer/modules/portfolio-related.php:392
+#: ../visual-composer/modules/portfolio-slider.php:93
+#: ../visual-composer/modules/portfolios.php:585
+msgid "Number slides of to show in view port."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:539
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:432
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:129
+#: ../visual-composer/modules/portfolio-related.php:401
+#: ../visual-composer/modules/portfolio-slider.php:102
+#: ../visual-composer/modules/portfolios.php:598
+msgid "Enable Loop Mode"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:545
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:438
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:135
+#: ../visual-composer/modules/portfolio-related.php:407
+#: ../visual-composer/modules/portfolio-slider.php:108
+#: ../visual-composer/modules/portfolios.php:604
+msgid ""
+"If you wish you can enable continous loop mode for your carousel. Thumbnail "
+"pagination wont work along with \"Loop Mode\"."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:551
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:444
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:141
+#: ../visual-composer/modules/portfolio-related.php:416
+#: ../visual-composer/modules/portfolio-slider.php:117
+#: ../visual-composer/modules/portfolios.php:617
+msgid "Enable Mousewheel Control"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:557
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:450
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:147
+#: ../visual-composer/modules/portfolio-related.php:422
+#: ../visual-composer/modules/portfolio-slider.php:123
+#: ../visual-composer/modules/portfolios.php:623
+msgid "If you wish you can enable mouse wheel control for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:563
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:456
+#: ../visual-composer/modules/portfolio-related.php:431
+#: ../visual-composer/modules/portfolios.php:636
+msgid "Enable Centered Mode"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:569
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:462
+#: ../visual-composer/modules/portfolio-related.php:437
+#: ../visual-composer/modules/portfolios.php:642
+msgid "If you wish you can enable centered mode for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:575
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:468
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:153
+#: ../visual-composer/modules/portfolio-related.php:446
+#: ../visual-composer/modules/portfolio-slider.php:132
+#: ../visual-composer/modules/portfolios.php:655
+msgid "Enable Vertical Direction"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:581
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:474
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:159
+#: ../visual-composer/modules/portfolio-related.php:452
+#: ../visual-composer/modules/portfolio-slider.php:138
+#: ../visual-composer/modules/portfolios.php:661
+msgid "To make your slides to navigate vertically."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:591
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:484
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:169
+#: ../visual-composer/modules/portfolio-related.php:465
+#: ../visual-composer/modules/portfolio-slider.php:151
+#: ../visual-composer/modules/portfolios.php:678
+msgid "Bullets"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:592
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:485
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:170
+#: ../visual-composer/modules/portfolio-related.php:466
+#: ../visual-composer/modules/portfolio-slider.php:152
+#: ../visual-composer/modules/portfolios.php:679
+msgid "Fraction"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:593
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:486
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:171
+#: ../visual-composer/modules/portfolio-related.php:467
+#: ../visual-composer/modules/portfolio-slider.php:153
+#: ../visual-composer/modules/portfolios.php:680
+msgid "Progress Bar"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:595
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:488
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:173
+#: ../visual-composer/modules/portfolio-related.php:469
+#: ../visual-composer/modules/portfolio-slider.php:155
+#: ../visual-composer/modules/portfolios.php:682
+msgid "Choose pagination type you like to use."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:601
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:494
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:179
+#: ../visual-composer/modules/portfolio-related.php:478
+#: ../visual-composer/modules/portfolio-slider.php:164
+#: ../visual-composer/modules/portfolios.php:695
+msgid "Enable Thumbnail Pagination"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:607
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:500
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:185
+#: ../visual-composer/modules/portfolio-related.php:484
+#: ../visual-composer/modules/portfolio-slider.php:170
+msgid "To enable thumbnail pagination."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:613
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:506
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:191
+#: ../visual-composer/modules/portfolio-related.php:493
+#: ../visual-composer/modules/portfolio-slider.php:179
+#: ../visual-composer/modules/portfolios.php:714
+msgid "Enable Arrow Pagination"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:619
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:512
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:197
+#: ../visual-composer/modules/portfolio-related.php:499
+#: ../visual-composer/modules/portfolio-slider.php:185
+#: ../visual-composer/modules/portfolios.php:720
+msgid "To enable arrow pagination."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:625
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:518
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:203
+#: ../visual-composer/modules/portfolio-related.php:508
+#: ../visual-composer/modules/portfolio-slider.php:194
+#: ../visual-composer/modules/portfolios.php:733
+msgid "Arrow Type"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:631
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:524
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:209
+#: ../visual-composer/modules/portfolio-related.php:514
+#: ../visual-composer/modules/portfolio-slider.php:200
+msgid "Choose arrow pagination type for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:637
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:530
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:215
+#: ../visual-composer/modules/portfolio-related.php:524
+#: ../visual-composer/modules/portfolio-slider.php:209
+#: ../visual-composer/modules/portfolios.php:753
+msgid "Enable Scrollbar"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:643
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:536
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:221
+#: ../visual-composer/modules/portfolio-related.php:530
+#: ../visual-composer/modules/portfolio-slider.php:215
+#: ../visual-composer/modules/portfolios.php:759
+msgid "To enable scrollbar for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:649
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:542
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:227
+#: ../visual-composer/modules/portfolio-related.php:539
+#: ../visual-composer/modules/portfolio-slider.php:224
+#: ../visual-composer/modules/portfolios.php:772
+msgid "Enable Arrow For Mouse Pointer"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:655
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:548
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:233
+#: ../visual-composer/modules/portfolio-related.php:545
+#: ../visual-composer/modules/portfolio-related.php:560
+#: ../visual-composer/modules/portfolios.php:778
+msgid "To enable arrow for mouse pointer for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:661
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:554
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:239
+#: ../visual-composer/modules/portfolio-slider.php:239
+#: ../visual-composer/modules/portfolios.php:791
+msgid "Pagination Color Scheme"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:664
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:557
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:242
+#: ../visual-composer/modules/portfolio-slider.php:242
+#: ../visual-composer/modules/portfolios.php:794
+msgid "Light"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:665
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:558
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:243
+#: ../visual-composer/modules/portfolio-slider.php:243
+#: ../visual-composer/modules/portfolios.php:795
+msgid "Dark"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:667
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:560
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:245
+#: ../visual-composer/modules/portfolio-slider.php:245
+#: ../visual-composer/modules/portfolios.php:797
+msgid "Choose pagination color scheme for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:673
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:566
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:251
+#: ../visual-composer/modules/portfolio-related.php:569
+#: ../visual-composer/modules/portfolio-slider.php:254
+#: ../visual-composer/modules/portfolios.php:810
+msgid "Enable Play/Pause Button"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:679
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:572
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:257
+#: ../visual-composer/modules/portfolio-related.php:575
+#: ../visual-composer/modules/portfolio-slider.php:260
+#: ../visual-composer/modules/portfolios.php:816
+msgid "To enable play pause button for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:685
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:578
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:263
+#: ../visual-composer/modules/portfolio-related.php:584
+#: ../visual-composer/modules/portfolio-slider.php:269
+#: ../visual-composer/modules/portfolios.php:829
+msgid "Space Between Sliders"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:686
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:579
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:264
+#: ../visual-composer/modules/portfolio-related.php:586
+#: ../visual-composer/modules/portfolio-slider.php:271
+#: ../visual-composer/modules/portfolios.php:831
+msgid "Space between sliders can be given here."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:696
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:589
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:274
+#: ../visual-composer/modules/portfolio-related.php:594
+#: ../visual-composer/modules/portfolio-slider.php:279
+#: ../visual-composer/modules/portfolios.php:843
+msgid "Overall Pagination Design Types"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:703
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:596
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:281
+#: ../visual-composer/modules/portfolio-related.php:601
+#: ../visual-composer/modules/portfolio-slider.php:286
+#: ../visual-composer/modules/portfolios.php:850
+msgid "Choose overall pagination design type for your carousel."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:709
+#: ../visual-composer/modules/portfolios.php:863
+msgid "Content Over Slider"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-listing.php:710
+#: ../visual-composer/modules/portfolios.php:864
+msgid "If you like to show any content over slider you can add it here."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:13
+msgid "Portfolio Single - Comment Form"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-video.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-title.php:33
+#: ../visual-composer/modules/portfolio-customdetails.php:15
+#: ../visual-composer/modules/portfolio-featuredimage.php:15
+#: ../visual-composer/modules/portfolio-featuredvideo.php:15
+#: ../visual-composer/modules/portfolio-gallerylisting.php:18
+#: ../visual-composer/modules/portfolio-slider.php:15
+#: ../visual-composer/modules/portfolio-tags.php:15
+#: ../visual-composer/modules/portfolio-terms.php:15
+#: ../visual-composer/modules/portfolio-title.php:15
+msgid ""
+"Enter portfolio id here. If you are going to use this shortcode in portfolio "
+"single page no need to give portfolio id."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:39
+#: ../visual-composer/modules/portfolio-comment-form.php:13
+msgid "Form Title"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:41
+#: ../visual-composer/modules/portfolio-comment-form.php:15
+msgid "If you wish you can provide form title here."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:47
+#: ../visual-composer/modules/portfolio-comment-form.php:22
+msgid "Form Comment Field Placeholder"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:49
+#: ../visual-composer/modules/portfolio-comment-form.php:24
+msgid "If you wish you can provide form comment field placeholder here."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:55
+#: ../visual-composer/modules/portfolio-comment-form.php:31
+msgid "Form Submit Button Label"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:57
+#: ../visual-composer/modules/portfolio-comment-form.php:33
+msgid "If you wish you can provide form submit button label here."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:65
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-list.php:33
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:54
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:41
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-video.php:41
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:122
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:54
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:71
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:64
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:63
+#: ../elementor/widgets/modules/class-widget-portfolio-single-title.php:41
+#: ../visual-composer/modules/portfolio-comment-form.php:42
+#: ../visual-composer/modules/portfolio-comment-list.php:15
+#: ../visual-composer/modules/portfolio-featuredimage.php:24
+#: ../visual-composer/modules/portfolio-featuredvideo.php:24
+#: ../visual-composer/modules/portfolio-gallerylisting.php:112
+#: ../visual-composer/modules/portfolio-navigationlinks.php:30
+#: ../visual-composer/modules/portfolio-related.php:197
+#: ../visual-composer/modules/portfolio-slider.php:48
+#: ../visual-composer/modules/portfolio-tags.php:35
+#: ../visual-composer/modules/portfolio-terms.php:35
+#: ../visual-composer/modules/portfolio-title.php:24
+#: ../visual-composer/modules/portfolios.php:328
+msgid "If you wish you can add additional class name here."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:85
+#: ../shortcodes/shortcodes.php:268
+msgid "Comments are closed."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:91
+#: ../shortcodes/shortcodes.php:274
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:97
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-form.php:103
+#: ../shortcodes/shortcodes.php:280 ../shortcodes/shortcodes.php:286
+msgid "Comment"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-comment-list.php:13
+msgid "Portfolio Single - Comment List"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:13
+msgid "Portfolio Single - Custom Details"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:39
+#: ../visual-composer/modules/portfolio-customdetails.php:22
+msgid "Types"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-custom-details.php:46
+#: ../visual-composer/modules/portfolio-customdetails.php:29
+msgid "Select the type of custom details."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-image.php:13
+msgid "Portfolio Single - Featured Image"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-featured-video.php:13
+msgid "Portfolio Single - Featured Video"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:13
+msgid "Portfolio Single - Gallery Listings"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:39
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:39
+msgid "Gallery ID(s)"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:41
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:41
+msgid ""
+"Comma separated gallery item ids to display particular gallery items only."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-gallery-listings.php:77
+#: ../visual-composer/modules/portfolio-gallerylisting.php:69
+msgid "Hover Design"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:13
+msgid "Portfolio Single - Navigation Links"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:39
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:47
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:32
+#: ../visual-composer/modules/portfolio-navigationlinks.php:14
+msgid "Type"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:45
+#: ../visual-composer/modules/portfolio-navigationlinks.php:21
+msgid "Type 4"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:84
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:102
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:141
+#: ../functions-singlepage.php:325 ../functions-singlepage.php:329
+#: ../functions-singlepage.php:354 ../functions-singlepage.php:360
+#: ../functions-singlepage.php:420 ../functions-singlepage.php:424
+#: ../shortcodes/shortcodes.php:530 ../shortcodes/shortcodes.php:534
+#: ../shortcodes/shortcodes.php:559 ../shortcodes/shortcodes.php:565
+#: ../shortcodes/shortcodes.php:625 ../shortcodes/shortcodes.php:629
+msgid "Prev Entry"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:90
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:112
+#: ../elementor/widgets/modules/class-widget-portfolio-single-navigation-links.php:149
+#: ../functions-singlepage.php:336 ../functions-singlepage.php:340
+#: ../functions-singlepage.php:372 ../functions-singlepage.php:377
+#: ../functions-singlepage.php:435 ../functions-singlepage.php:439
+#: ../shortcodes/shortcodes.php:541 ../shortcodes/shortcodes.php:545
+#: ../shortcodes/shortcodes.php:577 ../shortcodes/shortcodes.php:582
+#: ../shortcodes/shortcodes.php:640 ../shortcodes/shortcodes.php:644
+msgid "Next Entry"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:13
+msgid "Portfolio Single - Onepage Navigation Title Holder"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:31
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:14
+msgid "Navigation IDs"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:33
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:16
+msgid "Enter navigation ids separated by commas."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:39
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:23
+msgid "Navigation Titles"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:41
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:25
+msgid "Enter navigation titles separated by commas."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:52
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:37
+msgid "Rounded"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:60
+#: ../theme-support/class-designthemes.php:164
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:45
+msgid "Position"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:65
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:50
+msgid "Bottom Left"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-onepage-navigation-title-holder.php:66
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:51
+msgid "Bottom Right"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:13
+msgid "Portfolio Single - Related Portfolios"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-related-portfolios.php:33
+#: ../visual-composer/modules/portfolio-related.php:19
+msgid "Enter portfolio id to display the related portfolio items."
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:13
+msgid "Portfolio Single - Sliders"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:47
+msgid "Include Feature Image"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:58
+msgid "Include Feature Video"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:472
+#: ../functions-templatepage.php:1211 ../shortcodes/shortcodes.php:928
+msgid "Prev"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-sliders.php:473
+#: ../functions-templatepage.php:1212 ../shortcodes/shortcodes.php:929
+msgid "Next"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:13
+msgid "Portfolio Single - Tags"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:39
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:50
+#: ../visual-composer/modules/portfolio-tags.php:22
+#: ../visual-composer/modules/portfolio-terms.php:22
+msgid "With Icon"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-tags.php:50
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:39
+msgid "Term?"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-terms.php:13
+msgid "Portfolio Single - Terms"
+msgstr ""
+
+#: ../elementor/widgets/modules/class-widget-portfolio-single-title.php:13
+msgid "Portfolio Single - Title"
+msgstr ""
+
+#: ../functions-singlepage.php:29
+msgid "Name"
+msgstr ""
+
+#: ../functions-singlepage.php:33
+msgid "Email"
+msgstr ""
+
+#: ../functions-singlepage.php:106
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions-singlepage.php:108 ../functions-singlepage.php:138
+msgid "Edit"
+msgstr ""
+
+#: ../functions-singlepage.php:136
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions-singlepage.php:142
+msgid "Reply"
+msgstr ""
+
+#: ../functions-singlepage.php:361 ../functions-singlepage.php:379
+#: ../shortcodes/shortcodes.php:566 ../shortcodes/shortcodes.php:584
+msgid "No item to show!"
+msgstr ""
+
+#: ../functions-singlepage.php:495
+msgid "Enter your password below:"
+msgstr ""
+
+#: ../functions-singlepage.php:496 ../functions-singlepage.php:505
+msgid "Password:"
+msgstr ""
+
+#: ../functions-singlepage.php:504
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: ../functions-templatepage.php:116
+msgid "All"
+msgstr ""
+
+#: ../functions-templatepage.php:380 ../functions-templatepage.php:393
+msgid "View Gallery"
+msgstr ""
+
+#: ../functions-templatepage.php:984
+msgid "No more records to load!"
+msgstr ""
+
+#: ../functions-templatepage.php:1116
+msgid "Read More"
+msgstr ""
+
+#: ../functions-templatepage.php:1281
+msgid "Scroll To Load More"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:79
+msgid "Layout"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:99
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:106
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:111
+#: ../theme-support/class-designthemes.php:132
+msgid "Select Widget Areas"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:120
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:127
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:142
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:156
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:166
+msgid "Behind the Header"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:176
+msgid "Background"
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:177
+msgid "Choose background options for breadcrumb title section."
+msgstr ""
+
+#: ../theme-support/class-designthemes.php:280
+msgid "Case Study Detail"
+msgstr ""
+
+#: ../utils.php:148
+msgid "Portfolio Archives | Left Sidebar"
+msgstr ""
+
+#: ../utils.php:150
+msgid "Portfolio Archives | Right Sidebar"
+msgstr ""
+
+#: ../visual-composer/modules/onepage-navigation-title-holder.php:5
+msgid "Single Portfolio - Onepage Navigation Title Holder"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-comment-form.php:4
+msgid "Single Portfolio - Comment Form"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-comment-list.php:4
+msgid "Single Portfolio - Comment List"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-customdetails.php:4
+msgid "Single Portfolio - Custom Details"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-customdetails.php:37
+msgid "Add additional class name here."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-featuredimage.php:4
+msgid "Single Portfolio - Featured Image"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-featuredvideo.php:4
+msgid "Single Portfolio - Featured Video"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-gallerylisting.php:7
+msgid "Single Portfolio - Gallery Listings"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-gallerylisting.php:26
+#: ../visual-composer/modules/portfolio-slider.php:23
+msgid "Gallery ID"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-gallerylisting.php:28
+#: ../visual-composer/modules/portfolio-slider.php:25
+msgid ""
+"Comma separated gallery item ids to display particular gallery items only. "
+"You can find the \"Gallery ID\" in below \"Gallery Options\"."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-navigationlinks.php:4
+msgid "Single Portfolio - Navigation Links"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-navigationlinks.php:7
+msgid "Should be used only inside portfolio single page."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-navigationlinks.php:15
+msgid "Select type of gallery to list."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-related.php:8
+msgid "Single Portfolio - Related Portfolios"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-related.php:236
+#: ../visual-composer/modules/portfolios.php:367
+msgid "YES will override individual portfolio item options with below options."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-related.php:354
+msgid "Cover Flow"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-related.php:370
+#: ../visual-composer/modules/portfolio-slider.php:77
+#: ../visual-composer/modules/portfolios.php:559
+msgid ""
+"Delay between transitions ( in ms ). Leave empty if you don't want to auto "
+"play."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-related.php:554
+msgid "Enable Pagination Color Scheme"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-slider.php:4
+msgid "Single Portfolio - Sliders"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-slider.php:33
+msgid "Include Featured Image"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-slider.php:34
+msgid "Choose \"True\" if you like to include featured image in this gallery."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-slider.php:230
+msgid "To enable arrow for mouse pointer, along with click event."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-tags.php:4
+msgid "Single Portfolio - Tags"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-terms.php:4
+msgid "Single Portfolio - Terms"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-title.php:4
+msgid "Single Portfolio - Title"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-widget.php:4
+msgid "Portfolio Widget"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-widget.php:7
+msgid "WordPress Widgets"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-widget.php:23
+msgid "Widget title"
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-widget.php:26
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: ../visual-composer/modules/portfolio-widget.php:42
+msgid "Portfolio Count"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:8
+msgid "Portfolios Listing"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:215
+msgid "Title Overlay 2"
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:293
+msgid "Item categories to display. Separate category id with comma."
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:701
+msgid ""
+"To enable thumbnail pagination.  Thumbnail Pagination won't work along with "
+"Play / Pause button & Carousel Pagination Type."
+msgstr ""
+
+#: ../visual-composer/modules/portfolios.php:739
+msgid ""
+"Choose arrow pagination type for your carousel. Arrow Type - Type 2 won't "
+"work along with Play / Pause button & Carousel Pagination Type."
+msgstr ""
+
+#: ../visual-composer/register-visual-composer.php:11
+#, php-format
+msgid "%s - Portfolio"
+msgstr ""

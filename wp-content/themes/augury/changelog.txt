@@ -1,0 +1,61 @@
+*** Augury WordPress Theme Changelog ***
+
+2023.10.30 - version 2.4
+* Compatible with WordPress 6.3.2
+* Updated : Unyson plugin source updated
+
+2023.05.16 - version 2.3
+* Compatible with WordPress 6.2
+* Compatible with latest WooCommerce versions
+* Compatible with PHP 8.2 version
+* Updated: All premium plugins
+
+2023.02.06 - version 2.2
+* Added: Additional light demo content
+
+2022.12.29 - version 2.1
+* Compatible with WordPress 6.1
+* Compatible with latest WooCommerce versions
+* Compatible with PHP 8.1 version
+* Updated: All premium plugins
+
+2022.04.18 - version 2.0
+    * Booking Manager Parse error Updated
+
+2022.04.07 - version 1.9
+    * Elementor scheme color issue has been fixed
+
+2022.02.25 - version 1.8
+    * Booking Manager Plugin Updated
+
+2021.05.17 - version 1.7
+    * Some design issue updated
+
+2020.12.04 - version 1.6
+    * Latest jQuery fixes updated
+    * Updated: All premium plugins
+
+2020.11.03 - version 1.5
+    * Compatible with wordpress 5.5.3
+    * Shop page sorting options design fix
+    * Services and Persons custom post content update
+    * Services and Persons metabox update
+    * Demo Content update
+    * Woocommerce latest version compatible
+
+2020.08.13 - version 1.4
+    * Compatible with wordpress 5.5
+
+2020.07.27 - version 1.3
+    * Updated: Envato Theme check
+    * Updated: sanitize_text_field added
+    * Updated: All wordpress theme standards
+
+2020.03.10 - version 1.2
+    * Booking Manager plugin assets loading issue fixed
+
+2020.03.06 - version 1.1
+    * Updated with Unyson Optimized Demo Content
+
+2020.02.28 - version 1.0
+    * First release!

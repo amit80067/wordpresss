@@ -1,0 +1,343 @@
+a{transition:all 0.3s linear; -moz-transition:all 0.3s linear; -webkit-transition:all 0.3s linear;}
+a:hover{color:#9f9f9f;}
+
+.column img, .vc_column_container img, .wpb_column img{display:inherit;}
+
+.column { margin:0px 0px 0px 2%; float:left; min-height:1px; position:relative; }
+.column.first { margin-left:0px; clear:both; }	
+
+.dt-sc-full-width, .dt-sc-one-column { width:100%; }
+.column.dt-sc-full-width, .column.dt-sc-one-column { margin-left:0px; }
+
+.dt-sc-one-half { width:49%; }
+.dt-sc-one-third { width:32%; }
+.dt-sc-two-third { width:66%; }
+.dt-sc-one-fourth { width:23.5%; }
+.dt-sc-three-fourth { width:74.5%; }	
+
+.dt-sc-one-fifth { width:18.4%; }
+.dt-sc-two-fifth { width:38.8%; }
+.dt-sc-three-fifth { width:59.2%; }
+.dt-sc-four-fifth { width:79.6%; }
+
+.dt-sc-one-sixth { width:15%; }
+.dt-sc-two-sixth { width:32%; }
+.dt-sc-three-sixth { width:49%; }
+.dt-sc-four-sixth { width:66%; }
+.dt-sc-five-sixth { width:83%; }
+
+select{width:100%; padding:0.4em;}
+/* select:focus{color:#222; border-color:#333;} */
+
+
+.entry-content button, .entry-content input[type="button"], .entry-content input[type="submit"], .entry-content .dt-sc-button, .dt-sc-button{transition:all 0.3s linear; background-color:#222; border:0; -webkit-border-radius:2px; border-radius:2px; -webkit-box-shadow:none; box-shadow:none; color:#fff; cursor:pointer; display:inline-block; padding:15px 85px 14px; text-decoration:none; box-shadow:none; -webkit-box-shadow:none;}
+.entry-content button:hover, .entry-content input[type="button"]:hover, .entry-content input[type="submit"]:hover, .entry-content .dt-sc-button:hover, .entry-content button:focus, .entry-content input[type="button"]:focus, .entry-content input[type="submit"]:focus, .entry-content .dt-sc-button:focus, .dt-sc-button:hover, .dt-sc-button:focus{box-shadow:none; -webkit-box-shadow:none; color:#FFF; background:#767676;} 
+
+.dt-sc-hr-invisible-small{margin:15px 0px; clear:both; float:left; width:100%;}
+.dt-sc-hr-invisible-very-small{margin:5px 0px; clear:both; float:left; width:100%;}
+.dt-sc-hr-invisible-xsmall{float:left; width:100%; margin:35px 0 0; display:block; clear:both;}
+.dt-sc-clear{float:none; clear:both; margin:0; padding:0;}
+
+.aligncenter, img.aligncenter{clear:both; display:block; margin-left:auto; margin-right:auto; text-align:center;}
+
+
+/*** Alert Boxes Styles ***/
+.dt-sc-error-box, .dt-sc-warning-box, .dt-sc-success-box, .dt-sc-info-box { margin-bottom:20px; padding:15px 15px 15px 45px; clear:both; }
+.dt-sc-error-box a, .dt-sc-warning-box a, .dt-sc-success-box a, .dt-sc-info-box a { text-decoration:underline; }
+
+.dt-sc-error-box { background-color:#ffcccc; border:1px solid #ff9999; color:#d01313; position:relative; }
+input[type="text"].error { border-color:#ff0000; }
+.dt-sc-error-box:before, .dt-sc-warning-box:before, .dt-sc-success-box:before, .dt-sc-info-box:before { top:12px; left:18px; font-family:FontAwesome; font-style:normal; font-weight:normal; text-decoration:inherit; font-size:20px; position:absolute; }		
+
+.dt-sc-error-box:before { content:"\f057"; color:#C54228; }
+
+.dt-sc-warning-box { background-color:#fdebae; border:1px solid #e6c555; color:#c79d13; position:relative; }
+.dt-sc-warning-box:before { content:"\f06a"; color:#e2b828; }
+
+.dt-sc-success-box { background-color:#eafac0; border:1px solid #b1cf67; color:#7ba411; position:relative; }
+.dt-sc-success-box:before { content:"\f058"; color:#75b632; }
+
+.dt-sc-info-box { background-color:#bfe4f9; border:1px solid #68a2cf; color:#2081b9; position:relative; }
+.dt-sc-info-box:before { content:"\f05a"; color:#008bc1; }
+
+.dt-sc-error-box a { color:#d01313; }
+.dt-sc-warning-box a { color:#c79d13; }
+.dt-sc-success-box a { color:#7ba411; }
+.dt-sc-info-box a { color:#2081b9; }
+
+.dt-sc-reservation-form .aligncenter button{float:none; padding:15px 20px 14px;}
+.dt-sc-appointment-wrapper .dt-sc-reservation-form .selection-box:after, .dt-sc-reserve-appointment.type1 .selection-box:after{display:none;}
+
+.dt-sc-reservation-form .dt-sc-one-column .aligncenter button{width:100%;}
+
+.dt-sc-appointment-wrapper .dt-sc-reservation-form .dt-appoint-date, .dt-sc-reserve-appointment.type1 .dt-appoint-date{position:relative; z-index:1;}
+.dt-sc-appointment-wrapper .dt-sc-reservation-form .dt-appoint-date span, .dt-sc-reserve-appointment.type1 .dt-appoint-date span{position:absolute; top:17px; right:10px; font-size:13px;}
+
+.dt-sc-reservation .title { display:inline-block; text-align:center; width:100%; margin:0px 0px 30px; }
+.dt-sc-reservation .title h6 { border-bottom:3px solid #37251b; padding:0px 10px 10px; margin-bottom:0px; font-size:16px; display:inline-block; text-align:center; text-transform:none; font-weight:normal; }
+
+ul.time-table > li { background:#f0f0f0; position:relative; }
+ul.time-table > li:after { content:""; position:absolute; height:6px; width:100%; left:0px; }
+ul.time-table > li:after { bottom:-6px; }
+
+ul.time-table > li:before{background-color:#222;}
+
+ul.time-table > li:before { content:""; position:absolute; bottom:0px; left:0px; width:100%; height:0; z-index:0; -webkit-transition:all 0.5s; -moz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s; }
+ul.time-table > li ul, ul.time-table > li > span { position:relative; z-index:1; }
+ul.time-table > li:hover:before, ul.time-table > li.selected:before { height:100%; }
+
+ul.time-table > li:hover > span, ul.time-table > li.selected > span { color:#ffffff; }
+
+ul.time-table { display: block; float: left; list-style-type: none; padding: 0; width: 100%; }	
+
+ul.time-table > li { display:block; float:left; margin-bottom:20px; padding:15px 20px 0; text-align:center; width:32%; margin-right:2%; font-size:14px; border-radius:3px;}
+ul.time-table > li:nth-child(3n) { margin-right:0px; }
+ul.time-table > li:nth-child(3n+1){clear:both;}
+
+ul.time-table > li span { display: block; transition:all 300ms linear;}
+ul.time-table > li ul.time-slots { display: inline-block; margin: 20px 0 0; padding: 0; text-align: center; }
+ul.time-table > li ul.time-slots > li { border: none; clear: both; display: block; float: left; margin: 0 auto 10px ; padding: 0; }
+ul.time-table > li > p { font-size: 16px; margin: 0; }
+ul.time-table > li > p > span { display: block; font-size: 13px; }	
+
+ul.time-slots>li a, ul.time-table > li ul.time-slots > li a { background:#FFF; border:1px solid #f0f0f0; color:#222; display: inline-block; line-height: normal; min-width:100px; padding: 5px 18px; position: relative; width:100%; border-radius:3px; -webkit-border-radius:3px; -moz-border-radius:3px; -ms-border-radius:3px; -o-border-radius:3px; transition:all 0.3s linear;}
+ul.time-slots>li a{border:1px solid rgba(0,0,0,.06); min-width:56px; transition:all 0.3s linear; z-index:1;}
+
+ul.time-table > li ul.time-slots > li a.selected, ul.time-table > li ul.time-slots > li a.selected:hover { background:#000; border-color:#000; color:#ffffff; }
+ul.time-table > li ul.time-slots > li:last-child { margin-bottom: 0; }
+ul.time-table > li ul.time-slots > li a:hover { background:#000; border-color:#000; color:#ffffff; }
+
+.page-with-sidebar ul.time-table > li { width:18.3%; }
+.page-with-sidebar ul.time-table > li:nth-child(6n) { margin-right:2%; }
+.page-with-sidebar ul.time-table > li:nth-child(5n) { margin-right:0px; }
+
+ul.time-table > li:nth-child(6n+1), .page-with-sidebar ul.time-table > li:nth-child(5n+1) { clear:both; }
+
+.personal-info { float: left; width: 100%; }
+.personal-info textarea { height: 110px; margin-bottom:1.5em;}
+
+.ui-datepicker th { background:none; color:inherit; font-size:inherit; text-transform:none; }	
+
+.ui-datepicker-header a { -webkit-transition:none; -moz-transition:none; -o-transition:none; -ms-transition:none; transition:none; }
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { cursor:pointer; }
+
+
+/*** Reservation II Styles ***/
+.dt-sc-schedule-box,.dt-sc-contactdetails-box,.dt-sc-notification-box,.steps h2,.steps h3,.steps h4,.steps h5{float:left; width:100%;}
+.steps h2,.steps h3,.steps h4,.steps h5{clear:both; text-align:center;}
+.steps h2{padding-bottom:15px; position:relative;}
+.steps h2:after{content:""; height:1px; margin:auto; position:absolute; bottom:0; left:0; right:0; width:47px; background-color:#000;}
+.dt-sc-schedule-progress{float:left; width:100%; position:relative; margin-bottom:10px; width:33.333%; padding:27px 10px 10px 10px; margin-right:0; text-align:center;}
+.dt-sc-schedule-progress.step3{margin-right:0;}
+.dt-sc-schedule-progress .dt-sc-progress-step{float:left; margin:0 0 30px 0; position:relative; text-align:center; width:100%;}
+.dt-sc-schedule-progress .dt-sc-progress-step:before,.dt-sc-schedule-progress .dt-sc-progress-step:after{border-top:1px dashed; content:""; height:0; position:absolute; top:50%; width:50%; z-index:-1; -webkit-transform:translateY(-50%); transform:translateY(-50%);}
+.dt-sc-schedule-progress .dt-sc-progress-step:before{left:-10px;}
+.dt-sc-schedule-progress .dt-sc-progress-step:after{right:-10px;}
+.dt-sc-schedule-progress.step1 .dt-sc-progress-step:before,.dt-sc-schedule-progress.step3 .dt-sc-progress-step:after{content:none;}
+.dt-sc-schedule-progress .dt-sc-progress-step span{display:inline-block; float:none; font-size:36px; height:100px; line-height:100px; position:relative; width:100px; z-index:0; border:1px solid #CCC; color:#CCC;}
+.dt-sc-schedule-progress h4{clear:both; font-size:20px; margin-bottom:20px; padding-top:5px;}
+.dt-sc-schedule-progress p{font-size:14px;}
+.dt-sc-schedule-progress .dt-sc-progress-step span:before{content:""; height:auto; position:absolute; bottom:5px; left:5px; right:5px; top:5px; width:auto; z-index:-1;}
+.dt-sc-appointment-contactdetails-form{width:100%; float:left;}
+.dt-sc-contactdetails-box.steps input[type="text"],.dt-sc-contactdetails-box.steps input[type="password"],.dt-sc-contactdetails-box.steps input[type="email"],.dt-sc-contactdetails-box.steps input[type="url"],.dt-sc-contactdetails-box.steps input[type="tel"],.dt-sc-contactdetails-box.steps input[type="number"],.dt-sc-contactdetails-box.steps input[type="range"],.dt-sc-contactdetails-box.steps input[type="date"],.dt-sc-contactdetails-box.steps textarea,.dt-sc-contactdetails-box.steps input.text,.dt-sc-contactdetails-box.steps input[type="search"]{margin-bottom:20px;}
+.dt-sc-notification-box.steps.step3 .border-title{float:left; width:100%;}
+.dt-sc-notification-box.steps.step3 .dt-sc-notification-details ul li{ list-style:none; }
+.dt-sc-notification-box.steps.step3 .dt-sc-notification-details ul li span{font-weight:bold; float:left; width:100%; position:static; font-size:16px; color:#666; text-align:left;}
+.dt-sc-notification-box.steps.step3 .dt-sc-notification-details ul li p { clear: both; display: inline-block; width: 100%; }
+.dt-sc-notification-box.steps.step3 .dt-sc-notification-details ul li p:last-child { margin-bottom: 0; }
+.dt-sc-notification-box.steps.step3 .dt-sc-notification-details .dt-sc-schedule-details{width:100%; float:left;}
+.dt-sc-notification-box.steps.step3 .dt-sc-about-project-form input.schedule-it{margin:30px 0;}
+.dt-sc-goback-box{margin-bottom:35px; position:relative; text-align:center;}
+.dt-sc-goback-box:before{border-top:1px dashed; content:""; height:0; position:absolute; left:0; top:50%; width:100%; -webkit-transform:translateY(-50%); transform:translateY(-50%);}
+.dt-sc-goback-box .appointment-goback{border:1px solid; color:inherit; float:none; margin:auto; position:relative; z-index:1;}
+.page-template-tpl-reservation #primary>.column>p,.page-template-tpl-reservation #primary>.column>.column>p,.page-template-tpl-reservation-type2 #primary>.dt-sc-clear~p,.dt-sc-appointment-contactdetails-form>p{clear:both; font-size:14px; font-style:italic; opacity:.75;}
+.dt-appointment-form-wrapper.vc_column_container{background-color:rgba(54,45,48,0.9); margin:0 -15px; padding:75px 60px;}
+.dt-appointment-form-wrapper.vc_column_container .vc_column-inner{padding-left:0; padding-right:0;}
+.dt-sc-reservation-form.dt-appointment-form .vc_row{margin:0;}
+.dt-sc-reservation-form.dt-appointment-form h2{margin-bottom:10px;}
+.dt-sc-reservation-form.dt-appointment-form p{position:relative;}
+.dt-sc-reservation-form.dt-appointment-form p>label{display:none;}
+.dt-sc-reservation-form.dt-appointment-form select{padding-left:5px; padding-right:5px;}
+.dt-sc-reservation-form.dt-appointment-form .selection-box:after{background-color:rgba(0,0,0,0);}
+.dt-sc-reservation-form.dt-appointment-form input[type="submit"]{background-color:#906c5f; text-transform:uppercase;}
+.dt-sc-reservation-form.dt-appointment-form .wpcf7-form-control-wrap:before{height:2px;}
+.dt-sc-reservation-form.dt-appointment-form p:hover:before{width:100%;}
+.dt-sc-dark-bg .dt-sc-reservation-form.dt-appointment-form input[type="submit"]:hover{background-color:#fff; color:#333;}
+.dt-sc-dark-bg .dt-sc-reservation-form.dt-appointment-form input[type="text"],.dt-sc-dark-bg .dt-sc-reservation-form.dt-appointment-form input[type="email"],.dt-sc-dark-bg .dt-sc-reservation-form.dt-appointment-form select,.dt-sc-dark-bg .dt-sc-reservation-form.dt-appointment-form textarea,.dt-sc-dark-bg .dt-sc-reservation-form.dt-appointment-form label{color:#fff;}
+.dt-sc-schedule-progress .dt-sc-progress-step span,.dt-sc-schedule-progress span:before{-webkit-border-radius:50%; border-radius:50%;}
+.dt-sc-schedule-progress.dt-sc-current-step .dt-sc-progress-step span{background-color:#000; color:#FFF; border-color:#000;}
+.dt-sc-reserve-appointment2 ul.time-table{display:block; float:left; list-style-type:none; position: relative; width:100%;}
+
+.dt-sc-available-times ul.time-slots{display:block; float:left; overflow:hidden; margin:0; padding:30px 20px; position:relative; text-align:center; width:100%;}
+.dt-sc-available-times ul.time-slots>li{clear:none; display:inline-block; float:none; margin:5px; padding:0; }
+
+.entry-content ul.time-slots>li a:hover{-webkit-box-shadow:none; box-shadow:none; background-color:#000; color:#FFF;}
+.dt-sc-appointment-contactdetails-form textarea{min-height:150px;}
+.dt-sc-schedule-progress.dt-sc-completed-step .dt-sc-progress-step span:before{background-color:#F0F0F0; color:#000;}
+
+
+.dt-sc-person-item{width:100%; display:inline-block; transition:all 0.3s linear; -moz-transition:all 0.3s linear; -webkit-transition:all 0.3s linear; background-color:#F0F0F0; margin:0 0 30px;}
+.dt-sc-person-item:hover{box-shadow:0px 0px 50px 0px rgba(0,0,0,0.10); -moz-box-shadow:0px 0px 50px 0px rgba(0,0,0,0.10); -webkit-box-shadow:0px 0px 50px 0px rgba(0,0,0,0.10);}
+.dt-sc-person-item.type1 .image{position:relative; text-align:center;}
+.dt-sc-person-item.type1 .image .dt-sc-person-overlay{position:absolute; bottom:23px; left:0; right:0; margin:0 auto;}
+.dt-sc-person-item .person-details{width:100%; padding:40px 30px 10px; display:inline-block;}
+.dt-sc-person-item .person-details h3 { font-size:24px; letter-spacing:0px; margin-bottom: 10px; }
+.dt-sc-person-item .person-details h6 { font-weight:500; margin-bottom:15px; }
+.dt-sc-person-item .person-details p { font-size:16px; }
+
+.dt-sc-person-item.type2{text-align:center; padding:30px 0px 0px;}
+.dt-sc-person-item.type2 .image img{margin:0 auto; max-width:200px; border-radius:100%; -moz-border-radius:100%; -webkit-border-radius:100%;}
+
+.dt-sc-person-item .dt-sc-button.bordered, .dt-sc-service-item .dt-sc-button.bordered{ display:inline-block; float: none; padding:10px 20px; -webkit-box-shadow:none; box-shadow:none; -webkit-transition:all 0.3s linear; transition:all 0.3s linear; }
+.dt-sc-person-item .dt-sc-button.bordered:hover, .dt-sc-service-item .dt-sc-button.bordered:hover{color:#FFF;}
+.dt-sc-person-item.type2 .dt-sc-button.bordered{margin:25px 0px 0px;}
+.dt-sc-service-item .dt-sc-button.bordered{margin:10px 0px 0px;}
+
+
+.entry-content .dt-sc-service-item a, .entry-content .dt-sc-person-item a, ul.time-table > li ul.time-slots > li a, .entry-content .dt-sc-service-item a:hover, .entry-content .dt-sc-person-item a:hover, ul.time-table > li ul.time-slots > li a:hover, .entry-content .dt-sc-service-item a:focus, .entry-content .dt-sc-person-item a:focus, ul.time-table > li ul.time-slots > li a:focus{box-shadow:none; -webkit-box-shadow:none;}
+.entry-content .dt-sc-service-item a:hover, .entry-content .dt-sc-person-item a:hover, ul.time-table > li ul.time-slots > li a:hover{color:#9f9f9f; transition:all 0.3s linear;}
+
+.dt-sc-reserve-appointment.type1 h1, .dt-sc-reserve-appointment.type1 h2, .dt-sc-reserve-appointment.type1 h3, .dt-sc-reserve-appointment.type1 h4, .dt-sc-reserve-appointment.type1 h5, .dt-sc-reserve-appointment.type1 h6{/*font-weight:500;*/}
+
+
+.form-calender-icon{position:relative; z-index:1;}
+.form-calender-icon span{ pointer-events: none; position:absolute; right:8px; top:15px; z-index:0; }
+.dt-sc-appointment-scheduler-form .aligncenter .dt-sc-button.bordered{margin:40px 0; float:none;}
+
+.dt-sc-service-item.type1{width:100%; display:inline-block; background-color:#F0F0F0; padding:0px;}
+.dt-sc-service-item.type1 .image{width:50%; float:left;}
+.dt-sc-service-item.type1 .service-details{text-align:center; padding:30px 50px; float:left; width:50%;}
+
+
+.page-one-column .dt-sc-service-item .service-details .dt-sc-service-meta ul{margin-bottom:0px;}
+.page-two-column .dt-sc-service-item.type1 .image, .page-two-column .dt-sc-service-item.type1 .service-details{width:100%;}
+.page-two-column .dt-sc-service-item.type1 .service-details{padding:30px 50px;}
+
+
+.dt-sc-service-item .service-details h3{font-weight:500; margin-bottom:10px;}
+.dt-sc-service-item .service-details h6{font-size:16px; font-weight:normal; margin-bottom:10px; padding:0px;}
+.dt-sc-service-item .service-details h4{font-weight:600; margin-bottom:10px; padding:0px;}
+.dt-sc-service-item .service-details h6, .dt-sc-service-meta ul li{display:inline-block;}
+.dt-sc-service-item .service-details span{font-size:16px; font-weight:600; margin-left:10px;}
+.dt-sc-service-item .service-details .dt-sc-service-meta{width:100%; margin:20px auto 0; display:inline-block;}
+.dt-sc-service-item .service-details .dt-sc-service-meta li h6{float:left; margin-bottom:0px; line-height:29px;}
+.dt-sc-service-item .dt-sc-service-meta ul li{display:inline-block; clear:both; border-bottom:1px dashed; width:100%; text-align:left; padding-bottom:8px; margin-bottom:3px;}
+.dt-sc-service-item .dt-sc-service-meta ul li:last-child{border-bottom:none; padding-bottom:3px;}
+.dt-sc-service-item .service-details .dt-sc-service-meta li span{text-align:right; float:right;}
+
+.dt-sc-service-item{background-color:#F0F0F0; text-align:center; padding: 50px; width:100%; transition:all 0.3s linear; -moz-transition:all 0.3s linear; -webkit-transition:all 0.3s linear; margin-bottom:30px; float:left;}
+.dt-sc-service-item:hover{box-shadow:0px 0px 50px 0px rgba(0,0,0,0.10); -moz-box-shadow:0px 0px 50px 0px rgba(0,0,0,0.10); -webkit-box-shadow:0px 0px 50px 0px rgba(0,0,0,0.10);}
+.dt-sc-service-item.type2 .image{max-width:200px; margin:0 auto 45px;}
+.dt-sc-service-item.type2 .image img, .dt-services-list .dt-sc-service-item .image img{border-radius:100%; -moz-border-radius:100%; -webkit-border-radius:100%;}
+.dt-sc-service-item.type2 .service-details h3{margin-bottom:10px;}
+
+.page-two-column .dt-sc-service-item.type2{padding:50px 20px 50px;}
+.page-two-column .dt-sc-person-item .dt-sc-button.bordered, .page-two-column .dt-sc-service-item .dt-sc-button.bordered{padding:10px 15px; font-size:14px;}
+.page-two-column .dt-sc-service-item.type2 .service-details .dt-sc-service-meta li h6{font-size:14px;}
+.page-two-column .dt-sc-service-item.type2 .service-details .dt-sc-service-meta li span{font-size:12px; line-height:29px;}
+
+
+.dt-services-list{width:100%; clear:none; float:left; display:inline-block;}
+.dt-services-list .dt-sc-service-item{background-color:transparent; padding:0; text-align:left; position:relative; margin:0; padding: 0  0 20px 0; margin-bottom:30px; min-height:120px;}
+.dt-services-list .dt-sc-service-item:after{content:""; border-bottom:1px dashed; width:100%; height:1px; display:inline-block; clear:both; float:left; left:0px; bottom:0px; position:absolute; margin:0;}
+.dt-services-list .dt-sc-service-item:hover{box-shadow:none; -moz-box-shadow:none; -webkit-box-shadow:none;}
+.dt-services-list .dt-sc-service-item .image{float:left; margin:0px 30px 0px 0px; width:100px; position:absolute; top:0; left:0;}	
+
+.dt-services-list .dt-sc-service-item .service-details { padding-left: 130px; }
+.dt-services-list .dt-sc-service-item .image:empty + .service-details { padding-left: 0; }
+
+.dt-services-list .dt-sc-service-item .service-details .dt-sc-service-meta{width:auto; margin:0;}
+.dt-services-list .dt-sc-service-item .service-details .dt-sc-service-meta ul{margin-bottom:0px;}
+.intro-section .dt-services-list .dt-sc-service-item{border-bottom:none;}
+.intro-section .dt-services-list .dt-sc-service-item .service-details h4{float:right; margin:-25px 0px 0px;}
+.intro-section .dt-services-list .dt-sc-service-item .service-details h3{margin:15px 0 0;}	
+
+.single.single-dt_service #header-wrapper{margin-bottom:50px;}
+
+.dt-sc-reserve-appointment.type1{margin-bottom:80px;}
+
+.dt-sc-dark-bg .dt-appointment-form input[type=text]::-webkit-input-placeholder{color:#FFF;}
+.dt-sc-dark-bg .dt-appointment-form input[type=text]:-moz-placeholder{color:#FFF; opacity:1;}
+.dt-sc-dark-bg .dt-appointment-form input[type=text]::-moz-placeholder{color:#FFF; opacity:1;}
+.dt-sc-dark-bg .dt-appointment-form input[type=text]:-ms-input-placeholder{color:#FFF;}
+
+
+.dt-sc-dark-bg .dt-appointment-form select, .dt-sc-dark-bg .dt-appointment-form input[type=text]{color:#FFF; border-color:#FFF;}
+.dt-sc-dark-bg .selection-box:before{border-top-color:#FFF;}
+
+
+.dt-sc-dark-bg .dt-appointment-form select option{color:#5f5842;}
+.app-form .dt-appointment-form p{margin-bottom:0px;}
+.app-form .dt-appointment-form .dt-sc-button{width:100%; background-color:#FFF; margin:26px 0px 0px;}
+.app-form .dt-appointment-form .dt-sc-button:hover{color:#FFF;}
+
+
+@media only screen and (min-width:1025px) and (max-width:1280px) {
+	
+	
+	
+	.dt-sc-service-item.type2 .image{max-width:150px;}	
+	.dt-sc-service-item .dt-sc-service-meta ul li{text-align:center; padding:10px 5px;}	
+	.dt-sc-person-item .person-details h3{font-size:22px;}	
+	.dt-sc-person-item .person-details h6{font-size:12px; font-weight:500; letter-spacing:0.1em;}	
+	.page-two-column .vc_col-sm-6 .dt-sc-service-item.type2{padding:50px 15px 50px;}	
+	.dt-sc-error-box:before, .dt-sc-warning-box:before, .dt-sc-success-box:before, .dt-sc-info-box:before { top: 12px; }	
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1024px) {  
+	
+	.dt-sc-service-item.type2 .image{max-width:150px;}	
+	.vc_col-sm-4 .dt-sc-service-item .dt-sc-service-meta ul li{text-align:center; padding:10px 5px;}	
+	.vc_col-sm-4 .dt-sc-service-item .service-details .dt-sc-service-meta li h6{float:none; width:100%; display:inline-block;}	
+	.vc_col-sm-4 .dt-sc-service-item .service-details .dt-sc-service-meta li span{text-align:center; float:none; width:100%; display:inline-block;}	
+	.vc_col-sm-4 .dt-sc-service-item .dt-sc-button.medium.bordered{font-size:10px; padding:10px 10px 9px;}	
+	.dt-sc-service-item.type1 .image, .dt-sc-service-item.type1 .service-details{width:100%;}	
+	.dt-sc-service-item.type1 .image, .dt-sc-service-item.type1 .service-details{width:100%;}	
+	.dt-sc-person-item.type2 .image img{max-width:100px;}	
+	.page-two-column .vc_col-sm-6 .dt-sc-service-item.type2{padding:50px 10px 50px;}	
+	.page-two-column .vc_col-sm-6 .dt-sc-person-item .dt-sc-button.bordered{padding:8px 15px; font-size:12px;}	
+	.page-two-column .vc_col-sm-6 .dt-sc-service-item .dt-sc-button.bordered{padding:6px 10px; font-size:12px;}	
+	.page-two-column .vc_col-sm-6 .dt-sc-service-item.type2 .service-details .dt-sc-service-meta li h6{font-size:11px;}	
+	.page-two-column .vc_col-sm-6 .dt-sc-service-item.type2 .service-details .dt-sc-service-meta li span{font-size:10px; margin-left:0px;}	
+	.page-two-column ul.time-table > li{padding:15px 15px 0;}	
+	.page-two-column ul.time-table > li ul.time-slots > li a{min-width:80px; padding:5px 5px;}	
+	
+	.dt-sc-error-box:before, .dt-sc-warning-box:before, .dt-sc-success-box:before, .dt-sc-info-box:before { top:12px; }
+	
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+	
+	
+	.column{margin-bottom:20px; margin-left:0;}
+	 
+	 .dt-sc-one-fourth, .dt-sc-one-half, .dt-sc-one-third, .dt-sc-three-fourth, .dt-sc-two-third, .dt-sc-one-fifth, .dt-sc-four-fifth, .dt-sc-three-fifth, .dt-sc-two-fifth, .dt-sc-one-sixth, .dt-sc-two-sixth, .dt-sc-three-sixth, .dt-sc-four-sixth, .dt-sc-five-sixth, .column.no-space.dt-sc-one-fourth, .column.no-space.dt-sc-one-third, .column.no-space.dt-sc-one-half, .column.no-space.dt-sc-one-fifth, .column.no-space.dt-sc-one-sixth, .column.no-space.dt-sc-three-fourth, .column.no-space.dt-sc-two-third, .column.no-space.dt-sc-four-fifth, .column.no-space.dt-sc-three-fifth, .column.no-space.dt-sc-two-fifth, .column.no-space.dt-sc-two-sixth, .column.no-space.dt-sc-three-sixth, .column.no-space.dt-sc-four-sixth, .column.no-space.dt-sc-five-sixth, .portfolio.column.dt-sc-one-fourth.no-space, .column.no-space.dt-sc-two-fifth, .wpb_column.no-space.dt-sc-two-fifth, .column.no-space.dt-sc-one-fifth, .wpb_column.no-space.dt-sc-one-fifth, .column.no-space.dt-sc-three-fifth, .wpb_column.no-space.dt-sc-three-fifth, .wpb_column.dt-sc-one-fifth, .column.wpb_column.dt-sc-one-fifth{width:100%;}	
+	.dt-services-list .dt-sc-service-item{padding:0px 0px 20px;}	
+	.dt-services-list .dt-sc-service-item .image{position:static; margin:0px 0px 30px;}	
+	.service-details{clear:both; float:left; width:100%;}	
+	.intro-section .dt-services-list .dt-sc-service-item .service-details h4{float:left; margin:0px 0px 0px; width:100%;}	
+	.dt-sc-service-item .service-details .dt-sc-service-meta, .dt-sc-service-item.type1 .image{width:100%;}	
+	.dt-sc-service-item.type1 .service-details{padding:30px 10px; width:100%;}	
+	.dt-sc-service-item .dt-sc-button.medium.bordered:not(.with-icon){padding:14px 20px 13px; font-size:12px;}	
+	.dt-sc-service-item.type2 .service-details span{font-size:16px; line-height:33px;}	
+	.fullwidth-icon-count .dt-sc-icon-box.type2.no-icon h5{font-size:18px;}	
+	.dt-sc-error-box:before, .dt-sc-warning-box:before, .dt-sc-success-box:before, .dt-sc-info-box:before { top: 14px; }	
+	ul.time-table > li{ margin: 0 0 20px !important; width:100%; }	
+	ul.time-table > li:last-child { margin-bottom: 0 !important; }
+	.dt-sc-schedule-progress{width:100%;}
+
+	.dt-sc-schedule-progress.step1 .dt-sc-progress-step:before,.dt-sc-schedule-progress.step3 .dt-sc-progress-step:after{content: "";}
+
+	
+}
+@media only screen and (max-width: 479px) {
+	
+	.dt-sc-error-box:before, .dt-sc-warning-box:before, .dt-sc-success-box:before, .dt-sc-info-box:before { top: 12px; }
+
+	.dt-sc-goback-box .appointment-goback { padding-left: 35px; padding-right: 35px; }
+	  
+}	

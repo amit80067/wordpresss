@@ -1,0 +1,44 @@
+2022-12-07T07:33:13+00:00 CRITICAL Uncaught Error: Call to undefined function augury_get_option() in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php:7
+Stack trace:
+#0 /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/designthemes-portfolio-addon.php(101): dtportfolio_generate_skin_colors()
+#1 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): DTPortfolioAddon->dtportfolio_enqueue_scripts('')
+#2 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /nas/content/live/dtaugury/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /nas/content/live/dtaugury/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#5 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(454): wp_enqueue_scripts()
+#6 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(551): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#7 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): WP in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php on line 7
+
+2022-12-07T07:33:20+00:00 CRITICAL Uncaught Error: Call to undefined function augury_get_option() in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php:7
+Stack trace:
+#0 /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/designthemes-portfolio-addon.php(101): dtportfolio_generate_skin_colors()
+#1 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): DTPortfolioAddon->dtportfolio_enqueue_scripts('')
+#2 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /nas/content/live/dtaugury/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /nas/content/live/dtaugury/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#5 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(454): wp_enqueue_scripts()
+#6 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(551): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#7 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): WP in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php on line 7
+
+2022-12-07T07:33:29+00:00 CRITICAL Uncaught Error: Call to undefined function augury_get_option() in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php:7
+Stack trace:
+#0 /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/designthemes-portfolio-addon.php(101): dtportfolio_generate_skin_colors()
+#1 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): DTPortfolioAddon->dtportfolio_enqueue_scripts('')
+#2 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /nas/content/live/dtaugury/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /nas/content/live/dtaugury/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#5 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(454): wp_enqueue_scripts()
+#6 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(551): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#7 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): WP in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php on line 7
+
+2022-12-07T07:34:26+00:00 CRITICAL Uncaught Error: Call to undefined function augury_get_option() in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php:7
+Stack trace:
+#0 /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/designthemes-portfolio-addon.php(101): dtportfolio_generate_skin_colors()
+#1 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): DTPortfolioAddon->dtportfolio_enqueue_scripts('')
+#2 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /nas/content/live/dtaugury/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /nas/content/live/dtaugury/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#5 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(454): wp_enqueue_scripts()
+#6 /nas/content/live/dtaugury/wp-includes/class-wp-customize-manager.php(551): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#7 /nas/content/live/dtaugury/wp-includes/class-wp-hook.php(307): WP in /nas/content/live/dtaugury/wp-content/plugins/designthemes-portfolio-addon/css/skin.php on line 7
+

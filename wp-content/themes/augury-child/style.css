@@ -1,0 +1,32 @@
+/*
+Theme Name:     Augury Child
+Theme URI: 		https://dtaugury.wpengine.com/
+Author: 		the DesignThemes team
+Author URI: 	https://themeforest.net/user/designthemes
+Description:    Child theme for the Augury theme powered by DesignThemes
+Template:       augury
+Version:        1.0
+*/
+
+/* Remove bottom margin from header */
+#header-wrapper {
+	margin : 0 0 0 !important;
+}
+
+/* update H2 color globally */
+h2 {
+	color : #ffa35a !important;
+}
+
+/* custom height for banner video */
+.astrowalk-banner.elementor-section {
+	overflow: hidden !important;
+/*     max-height: 370px !important; */
+}
+
+/* fix banner video width for specific range of screen */
+@media (min-width: 1023px) and (max-width: 1390px) {
+  .astrowalk-banner .elementor-container {
+    min-width: 100% !important;
+  }
+}
