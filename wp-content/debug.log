@@ -7422,3 +7422,4 @@
 [14-Jun-2024 08:29:15 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in /var/www/html/wp-includes/functions.php on line 6078
 [14-Jun-2024 08:29:33 UTC] PHP Deprecated:  Function print_emoji_styles is deprecated since version 6.4.0! Use wp_enqueue_emoji_styles instead. in /var/www/html/wp-includes/functions.php on line 6078
 [14-Jun-2024 08:52:29 UTC] PHP Notice:  Undefined variable: header_class in /var/www/html/wp-content/themes/augury/page.php on line 53
+[14-Jun-2024 09:12:07 UTC] PHP Notice:  Undefined variable: header_class in /var/www/html/wp-content/themes/augury/page.php on line 53
